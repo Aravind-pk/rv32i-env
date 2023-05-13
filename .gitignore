@@ -1,0 +1,17 @@
+.vscode
+__pycache__
+Test
+work
+Riscv_1.cr.mti
+Riscv_1.mpf
+riscv_tb.sv
+riscv_tb.sv.bak
+riscv.cr.mti
+riscv.mpf
+riscv.sv
+riscv.sv.bak
+simulate.tcl
+tb.sv
+tb.v.bak
+transcript
+vsim.wlf
